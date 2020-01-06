@@ -1,43 +1,40 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://tomasz-michniewicz.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Tomasz Michniewicz',
+  subtitle: 'Tomasz Michniewicz - senior software developer/architect based in Vancouver, Canada.',
+  copyright: '©2020 All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 20,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Projects',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About',
       path: '/pages/about'
     },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Tomasz Michniewicz',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Senior Software Developer/Architect. Passionate about creating better apps, constantly learning and trying new things. Lives and works in Vancouver, Canada.',
+    // bio: 'Senior software developer/architect. Passionate about new technologies, always eager to learn, create and try new things. Lives and works in Vancouver, Canada.',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: 'augmitylab',
+      github: 'augmity',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'tomaszmichniewicz',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',

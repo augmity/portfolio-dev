@@ -1,13 +1,21 @@
 ---
-title: "About me"
+title: "About"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/tomasz-michniewicz.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Full-stack developer and software architect with extensive hands-on experience in designing and developing complex web applications. Constantly working with cutting edge web technologies to deliver user friendly, intuitive and reliable software. Passionate about programming, always eager to learn and improve. 
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+### TOOLS & TECHNOLOGIES
+JavaScript, TypeScript, Angular, RxJS, NodeJS, C#, HTML/ CSS, UI frameworks (Material, Bootstrap), git, Jira, SQL/NoSQL, PHP, Delphi
+ReactJS, Vue, Google Cloud Platform (GCP), Firebase, GraphQL, Python, IoT
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+### INDUSTRY KNOWLEDGE
+agile software design & development, UI & UX design,
+reactive programming, responsive web design, business modeling
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+### SKILLS
+creativity, problem solving & analytical thinking, attention to detail, adaptability & flexibility, time & work management, collaboration
+
+### OTHER EXPERIENCE
+Volunteering  as a Production Assistant/Site Crew and also  a Photographer at multiple cultural events in BC
