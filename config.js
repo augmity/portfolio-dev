@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Tomasz Michniewicz',
     photo: '/photo.jpg',
-    bio: 'Senior Software Developer/Architect. Passionate about creating better apps, constantly learning and trying new things. Lives and works in Vancouver, Canada.',
+    bio: 'Senior Software Developer/Architect based in Vancouver. Passionate about creating better apps, constantly learning and trying new things.',
     // bio: 'Senior software developer/architect. Passionate about new technologies, always eager to learn, create and try new things. Lives and works in Vancouver, Canada.',
     contacts: {
       email: '',
