@@ -14,7 +14,7 @@ tags:
 socialImage: "/media/canadian-weather-data-1.png"
 ---
 
-Used technologies: ReactJS, GraphQL, JavaScript, D3.jsReactJS, GraphQL, JavaScript, D3.js
+Used technologies: ReactJS, GraphQL, JavaScript, D3.js, GraphQL, JavaScript, D3.js
 
 Demo: <https://canadian-historical-weather-data.netlify.com>
 
