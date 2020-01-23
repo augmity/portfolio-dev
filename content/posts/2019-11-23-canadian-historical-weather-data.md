@@ -8,8 +8,8 @@ description: "Canadian Historical Weather Data app"
 category: "Projects"
 tags:
   - "ReactJS"
-  - "GraphQL"
   - "JavaScript"
+  - "GraphQL"
   - "D3.js"
 socialImage: "/media/canadian-weather-data-1.png"
 ---

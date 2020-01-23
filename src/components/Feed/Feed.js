@@ -25,6 +25,13 @@ const Feed = ({ edges }: Props) => (
         <h2 className={styles['feed__item-title']}>
           <Link className={styles['feed__item-title-link']} to={edge.node.fields.slug}>{edge.node.frontmatter.title}</Link>
         </h2>
+
+        { edge.node.frontmatter.tags && 
+          <div style={{ fontSize: 14, color: '#aaa' }}>
+            [{edge.node.frontmatter.tags.map((tag, idx) => <span style={{ marginRight: 3, marginLeft: 3 }}>{tag}{(idx < edge.node.frontmatter.tags.length-1) && <>,</>}</span>)}]
+          </div>
+        }
+
         <p className={styles['feed__item-description']}>{edge.node.frontmatter.description}</p>
 
         { edge.node.frontmatter.socialImage &&
